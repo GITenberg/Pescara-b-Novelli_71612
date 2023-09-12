@@ -1,0 +1,43 @@
+_repo: Pescara-b-Novelli_71612
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Lehtonen, Joel
+    birthdate: 1881
+    deathdate: 1934
+    gutenberg_agent_id: '5996'
+    url: http://www.gutenberg.org/2009/agents/5996
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Joel_Lehtonen
+    - https://fi.wikipedia.org/wiki/Joel_Lehtonen
+creator:
+  author:
+    agent_name: Meyer, Conrad Ferdinand
+    aliases:
+    - Meyer-Ziegler, Konrad Ferdinand
+    - Meyer, C. F. (Conrad Ferdinand)
+    - Meyer, Konrad Ferdinand
+    birthdate: 1825
+    deathdate: 1898
+    gutenberg_agent_id: '1259'
+    url: http://www.gutenberg.org/2009/agents/1259
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Conrad_Ferdinand_Meyer
+    - https://de.wikipedia.org/wiki/Conrad_Ferdinand_Meyer
+description: ''
+gutenberg_issued: '2023-09-11'
+identifiers:
+  gutenberg: '71612'
+language: fi
+pgterms:marc905: 20230704020529meyer
+pgterms:marc906: '1906'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aPorvoo :$bWSOY, $c1906.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Pescara : $b Novelli'
+url: http://www.gutenberg.org/ebooks/71612
