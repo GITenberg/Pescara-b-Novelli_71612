@@ -10,6 +10,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Joel_Lehtonen
     - https://fi.wikipedia.org/wiki/Joel_Lehtonen
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Meyer, Conrad Ferdinand
@@ -25,6 +28,8 @@ creator:
     - https://en.wikipedia.org/wiki/Conrad_Ferdinand_Meyer
     - https://de.wikipedia.org/wiki/Conrad_Ferdinand_Meyer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71612#Pescara-b-Novelli
 gutenberg_issued: '2023-09-11'
 identifiers:
   gutenberg: '71612'
